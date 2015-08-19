@@ -1,4 +1,4 @@
 # markdownlint config file: copy it into the home folder: ~/.mdlrc
 # and config the style path
  
- style "PATH TO /markdownlint.style.rb"
+style "PATH TO /markdownlint.style.rb"
